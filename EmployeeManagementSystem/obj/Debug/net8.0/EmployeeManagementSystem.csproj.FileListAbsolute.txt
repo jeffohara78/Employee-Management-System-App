@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.exe
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.deps.json
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.dll
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.pdb
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.dll
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\refint\EmployeeManagementSystem.dll
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.pdb
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\ref\EmployeeManagementSystem.dll
